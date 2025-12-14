@@ -129,10 +129,6 @@ data/
 .vscode/
 ```
 
-## Contact / Author
-
-Purunjay Bhardwaj — project owner. Resume (local upload): `/mnt/data/Purunjay_Bhardwaj_Resume.pdf`.
-
 ---
 
 ## Acknowledgements & resources
@@ -143,4 +139,3 @@ Purunjay Bhardwaj — project owner. Resume (local upload): `/mnt/data/Purunjay_
 
 ---
 
-*Happy coding — ping me if you want me to create a GitHub release, LICENSE file, or a short demo GIF for the README.*
